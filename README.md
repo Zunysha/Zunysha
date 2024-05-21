@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zunysha Naveed</h1>
-<h3 align="center">BSCS student(UET,Taxila) Python learner | Devoted towards Machine learning | Exploring Data Science. Taxilians Robotics and Automation Club University of Engineering and Technology, Taxila Islāmābād, Pakista</h3>
+<h3 align="center">BSCS student(UET,Taxila) Python learner | Devoted towards Machine learning | Exploring Data Science. </h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 📫 How to reach me **zunysha.ch.n19@gmail.com**
