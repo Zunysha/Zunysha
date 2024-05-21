@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zunysha Naveed</h1>
-<h3 align="center"> I am a BSCS student at UET Taxila, passionate about Python and deeply committed to machine learning. Currently, I am exploring the dynamic field of data science to enhance my skills and knowledge. My journey is driven by a strong desire to innovate and contribute to technological advancements.</h3>
+<h3 align="center"> I am a passionate BSCS student at UET Taxila, passionate about Python and deeply committed to machine learning. Currently, I am exploring the dynamic field of data science to enhance my skills and knowledge. My journey is driven by a strong desire to innovate and contribute to technological advancements.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🌱 I’m currently learning **Python, Machine Learning, Data Sciences**
